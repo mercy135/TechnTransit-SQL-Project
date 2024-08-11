@@ -84,4 +84,4 @@ the customer (INT)
 • buyPrice: Price at which the product was bought (DECIMAL(10,2)) 
 • MSRP: Manufacturer's suggested retail price (DECIMAL(10,2))
 
-The scenario based questions will be on each query,
+**Kindly note that The scenario-based questions will be on each query, each module will be grouped by the department that needs the solution.**
